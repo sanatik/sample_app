@@ -36,6 +36,7 @@ group :development, :test do
   gem 'sqlite3'
   gem 'byebug'
   gem 'rspec-rails', '2.13.1'
+  gem 'test-unit'
 end
 
 group :test do
